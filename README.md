@@ -1,4 +1,5 @@
 # Tic-Tac-Toe-game
 
 This is an frontend web development project using html,css,javascript.
-![image](https://github.com/Snehalavate/Tic-Tac-Toe-game/assets/95031919/1744f84c-aeec-43ec-bcd7-3c55ba766b3a)
+
+![Tic-Tac-Toe1](https://github.com/Snehalavate/Tic-Tac-Toe-game/assets/95031919/4ab05955-6493-4fcc-8bef-d1450c88dff8)
